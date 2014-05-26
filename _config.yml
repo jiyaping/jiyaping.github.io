@@ -1,0 +1,16 @@
+markdown: rdiscount
+permalink: /:title/
+url: http://jiyaping.github.io
+name: jiyaping's page 
+author: jiyaping
+qq: 946289456
+email: jiyaping0802@gmail.com
+duoshuo: jiyapingpages
+#beian: 浙ICP备12026616号
+cnzz: 1000448429
+weibo: 1741341313
+github: jiyaping
+pygments: true
+safe: true
+paginate: 20
+about: "test a test , test my test "
